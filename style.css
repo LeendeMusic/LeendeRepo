@@ -368,6 +368,14 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .socialbottom{
 	border-style:_popUpItemAction:;
 }
+.h3-1-style{
+	font-family:Nunito;
+	font-weight:700;
+}
+.h4-style{
+	font-family:Nunito;
+	font-weight:700;
+}
 
 /* = Colour
 -------------------------------------------------------------- */
