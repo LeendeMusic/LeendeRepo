@@ -1,2 +1,2 @@
 # LeendeRepo
-I will add my tweak and application links
+I will add my application links
