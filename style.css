@@ -1,9 +1,7 @@
 /*-----------------------------------------------------------------------------------
 	LeendeRepo
-	About: A shiny new Blocs website.
 	Author: Leende
 	Version: 1.0
-	Built with Blocs
 -----------------------------------------------------------------------------------*/
 body{
 	margin:0;
@@ -24,7 +22,7 @@ a:hover{text-decoration: none; cursor:pointer;}
 .preloader-complete{animation-delay:0.1s;}
 @keyframes preloader-fade {0% {opacity: 1;visibility: visible;}100% {opacity: 0;visibility: hidden;}}
 
-/* = Blocs
+/* = Bloc
 -------------------------------------------------------------- */
 
 .bloc{
